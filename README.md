@@ -1,3 +1,6 @@
+# Dotfiles
+>These are my dotfiles for my configs 
 
-# These are my dotfiles for my configs 
-Themes location /usr/share/themes/           Icon location - /usr/share/icons/
+Locations:
+* Themes location /usr/share/themes/
+* Icons location /usr/share/icons/
