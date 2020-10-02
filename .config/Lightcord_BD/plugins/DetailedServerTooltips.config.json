@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "displayUpdateNotes": true,
+        "tooltipColor": "#7289da",
+        "displayDelay": 500,
+        "minimalMode": false
+    }
+}

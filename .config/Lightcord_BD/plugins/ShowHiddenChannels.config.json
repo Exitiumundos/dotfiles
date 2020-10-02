@@ -1,0 +1,15 @@
+{
+	"blacklist": [],
+	"categorydata": [],
+	"changelog": {
+		"currentversion": "2.8.0"
+	},
+	"settings": {
+		"showAnnouncement": true,
+		"showForNormal": false,
+		"showStore": true,
+		"showText": true,
+		"showVoice": true,
+		"sortNative": false
+	}
+}

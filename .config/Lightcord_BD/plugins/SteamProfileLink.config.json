@@ -1,0 +1,8 @@
+{
+	"changelog": {
+		"currentversion": "1.0.9"
+	},
+	"settings": {
+		"useChromium": false
+	}
+}

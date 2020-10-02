@@ -1,0 +1,52 @@
+{
+	"changeLog": {
+		"version": "3.9.6"
+	},
+	"changelog": {
+		"currentversion": "3.9.5"
+	},
+	"settings": {
+		"changeInActivity": true,
+		"changeInAppTitle": true,
+		"changeInAuditLog": true,
+		"changeInAutoComplete": true,
+		"changeInChatTextarea": true,
+		"changeInChatWindow": true,
+		"changeInContextMenu": true,
+		"changeInDmCalls": true,
+		"changeInDmHeader": true,
+		"changeInDmsList": true,
+		"changeInEmojiLog": true,
+		"changeInFriendList": true,
+		"changeInInviteList": true,
+		"changeInMemberList": true,
+		"changeInMemberLog": true,
+		"changeInMentions": true,
+		"changeInQuickSwitcher": true,
+		"changeInReactions": true,
+		"changeInRecentDms": true,
+		"changeInSearchPopout": true,
+		"changeInTyping": true,
+		"changeInUserAccount": true,
+		"changeInUserPopout": true,
+		"changeInUserProfile": true,
+		"changeInVoiceChat": true
+	},
+	"users": {
+		"213781212723019787": {
+			"color1": null,
+			"color2": null,
+			"color3": null,
+			"color4": null,
+			"color5": null,
+			"ignoreTagColor": false,
+			"name": null,
+			"removeIcon": false,
+			"removeStatus": false,
+			"status": null,
+			"statusEmoji": null,
+			"tag": "You",
+			"url": null
+		}
+	}
+}
